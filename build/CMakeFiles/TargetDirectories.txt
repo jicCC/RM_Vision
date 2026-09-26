@@ -1,3 +1,0 @@
-/home/jic/projects/helloworld/Vision/build/CMakeFiles/test_reprojection.dir
-/home/jic/projects/helloworld/Vision/build/CMakeFiles/edit_cache.dir
-/home/jic/projects/helloworld/Vision/build/CMakeFiles/rebuild_cache.dir
